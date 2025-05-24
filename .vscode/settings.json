@@ -1,1 +1,17 @@
-{}
+{
+	"editor.tabCompletion": "on",
+    "editor.acceptSuggestionOnEnter": "on",
+    "editor.suggestOnTriggerCharacters": true,
+    "editor.wordBasedSuggestions": "matchingDocuments",
+    "editor.snippetSuggestions": "top",
+    "editor.quickSuggestions": {
+        "other": "on",
+        "comments": "off",
+        "strings": "on"
+    },
+    "typescript.suggest.enabled": true,
+    "javascript.suggest.enabled": true,
+    "omnisharp.enableAsyncCompletion": true,
+    "typescript.preferences.includePackageJsonAutoImports": "on",
+    "typescript.preferences.preferTypeOnlyAutoImports": false
+}
