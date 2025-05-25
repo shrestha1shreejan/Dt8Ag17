@@ -132,3 +132,11 @@ D:\Projects\DtApp\API\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
 D:\Projects\DtApp\API\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 D:\Projects\DtApp\API\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
 D:\Projects\DtApp\API\obj\Debug\net8.0\API.sourcelink.json
+D:\Projects\DtApp\API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projects\DtApp\API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\DtApp\API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\DtApp\API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\DtApp\API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\DtApp\API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projects\DtApp\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\DtApp\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
